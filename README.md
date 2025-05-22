@@ -1,4 +1,4 @@
-# Sandwich Maker Application
+# Sandwich Hub Application
 
 A full-stack web application for managing a sandwich shop, built with React, Node.js, and MySQL.
 
